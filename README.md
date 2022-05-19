@@ -1,4 +1,5 @@
 # Fibonacci
+A simple code that calculates the Fibonacci sequence number in given position of said sequence.
 
 ## Using and Testing
 1) Import Fibonacci.java and run it in your preferred IDE
